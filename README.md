@@ -58,6 +58,8 @@ I’m actively developing my skills in **secure coding practices and security-fo
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=hcketjow&show_icons=true&theme=shadow_green)
+![](https://github-readme-stats.vercel.app/api?username=hcketjow&show_icons=true&theme=shadow_green&hide_border=true)
+![](https://streak-stats.demolab.com?user=hcketjow&theme=shadow_green&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hcketjow&layout=compact&theme=shadow_green&hide_border=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
