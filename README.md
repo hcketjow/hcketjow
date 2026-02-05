@@ -9,14 +9,10 @@ I’m also a **Computer Science student** at the **Polish-Japanese Academy of In
 🔐 My main areas of interest include **cybersecurity**, **artificial intelligence**, and **data analysis**.  
 I’m actively developing my skills in **secure coding practices and security-focused technologies**, with the goal of transitioning into a **cybersecurity-oriented role**.
 
----
-
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Wojciech%20Chodasiewicz)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hcketjow@gmail.com)
-
----
 
 ## 💻 Tech Stack
 
@@ -60,12 +56,7 @@ I’m actively developing my skills in **secure coding practices and security-fo
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=hcketjow&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=hcketjow&theme=shadow_green&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hcketjow&theme=shadow_green&hide_border=false&layout=compact)
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hcketjow&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hcketjow&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hcketjow&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
