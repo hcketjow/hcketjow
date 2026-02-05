@@ -56,10 +56,4 @@ I’m actively developing my skills in **secure coding practices and security-fo
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=hcketjow&show_icons=true&theme=shadow_green&hide_border=true)
-![](https://streak-stats.demolab.com?user=hcketjow&theme=shadow_green&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hcketjow&layout=compact&theme=shadow_green&hide_border=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
