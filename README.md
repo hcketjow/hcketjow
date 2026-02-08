@@ -1,6 +1,7 @@
 # About Me
 
-I’m a software developer currently working with Ruby on Rails, focused on building scalable, maintainable, and secure web applications.
+🇬🇧
+I am a software developer working with Ruby on Rails, focused on building scalable, maintainable, and secure web applications. I take a security-first approach, considering system reliability, data protection, and risk mitigation from the earliest stages of development. My interests include application security, secure coding practices, and understanding common web vulnerabilities from a developer’s perspective.
 
 ## 💻 Tech Stack
 
