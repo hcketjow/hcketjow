@@ -1,18 +1,10 @@
-# 💫 About Me
+# About Me
 
-Hi! I’m a **software developer** currently working with **Ruby on Rails**, focused on building **scalable, maintainable, and secure** web applications.
-
-In my daily work, I use **Turbo Streams**, **PostgreSQL**, **JavaScript**, **SCSS**, and **Bash** to deliver modern, production-ready solutions.
-
-I’m also a **Computer Science student** at the **Polish-Japanese Academy of Information Technology**, where I continuously expand my knowledge beyond classic web development.
-
-🔐 My main areas of interest include **cybersecurity**, **artificial intelligence**, and **data analysis**.  
-I’m actively developing my skills in **secure coding practices and security-focused technologies**, with the goal of transitioning into a **cybersecurity-oriented role**.
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Wojciech%20Chodasiewicz)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hcketjow@gmail.com)
+Hi! I’m a software developer currently working with Ruby on Rails, focused on building scalable, maintainable, and secure web applications.
+In my daily work, I use Turbo Streams, PostgreSQL, JavaScript, SCSS, and Bash to deliver modern, production-ready solutions.
+I’m also a Computer Science student at the Polish-Japanese Academy of Information Technology, where I continuously expand my knowledge beyond classic web development.
+My main areas of interest include cybersecurity, artificial intelligence, and data analysis.  
+I’m actively developing my skills in secure coding practices and security-focused technologies, with the goal of transitioning into a cybersecurity-oriented role.
 
 ## 💻 Tech Stack
 
@@ -55,5 +47,10 @@ I’m actively developing my skills in **secure coding practices and security-fo
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Wojciech%20Chodasiewicz)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hcketjow@gmail.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
